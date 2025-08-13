@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/hospital-management/static/css/main.71ab73f1.css",
+    "main.js": "/hospital-management/static/js/main.85dae9be.js",
+    "static/js/453.8b6a89e8.chunk.js": "/hospital-management/static/js/453.8b6a89e8.chunk.js",
+    "index.html": "/hospital-management/index.html",
+    "main.71ab73f1.css.map": "/hospital-management/static/css/main.71ab73f1.css.map",
+    "main.85dae9be.js.map": "/hospital-management/static/js/main.85dae9be.js.map",
+    "453.8b6a89e8.chunk.js.map": "/hospital-management/static/js/453.8b6a89e8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.71ab73f1.css",
+    "static/js/main.85dae9be.js"
+  ]
+}
